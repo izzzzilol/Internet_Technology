@@ -1,2 +1,2 @@
 ﻿Welcome to TaskFlow!
-This is a smaple project.
+This is a sample project.

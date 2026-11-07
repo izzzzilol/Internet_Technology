@@ -1,2 +1,2 @@
-﻿Привет! Это учебный файл для практики Git.
-Версия текста: изменена в develop.
+Welcome to TaskFlow!
+This is a sample project.
